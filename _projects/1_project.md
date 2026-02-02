@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lexicon of Rabbinic Greek
-description: A lexicon of words used in Hebrew and Rabbinic lit. that were derived from Greek.
+title: Untitled Chemistry Game
+description: An 8-bit chemistry themed roguelite game I am working on coding in my free time.
 img:
 importance: 1
 category: fun
 ---
 
-You can find the project here: [Lexicon of Rabbinic Greek](https://braydenko.github.io/Jastrow-Klein-Dicts/)
+There is currently no public demo available. Hopefully I can get an alpha ready soon!

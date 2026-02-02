@@ -5,7 +5,4 @@ title: research
 nav: true
 nav_order: 4
 ---
-
-# [Yttri Lab](https://labs.bio.cmu.edu/yttri/)
-
-# [Physical Intelligence Lab](https://www.tsaylab.com/)
+No current research!
