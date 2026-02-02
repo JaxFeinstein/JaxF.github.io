@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cmu-courses",
-          title: "cmu courses",
-          description: "reviews of each of my semesters at Carnegie Mellon University.",
+  },{id: "nav-relevant-coursework",
+          title: "Relevant Coursework",
+          description: "CMU classes which shaped me.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-lexicon-of-rabbinic-greek",
-          title: 'Lexicon of Rabbinic Greek',
-          description: "A lexicon of words used in Hebrew and Rabbinic lit. that were derived from Greek.",
+          section: "News",},{id: "projects-untitled-chemistry-game",
+          title: 'Untitled Chemistry Game',
+          description: "An 8-bit chemistry themed roguelite game I am working on coding in my free time.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
@@ -419,21 +419,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%62%72%61%79%64%65%6E%6B@%61%6E%64%72%65%77.%63%6D%75.%65%64%75", "_blank");
+          window.open("mailto:%6A%61%78%66@%61%6E%64%72%65%77.%63%6D%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/BraydenKO", "_blank");
+          window.open("https://github.com/JaxFeinstein", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/brayden-kohler-906563268", "_blank");
+          window.open("https://www.linkedin.com/in/jax-feinstein-204805289", "_blank");
         },
       },{
       id: 'light-theme',
