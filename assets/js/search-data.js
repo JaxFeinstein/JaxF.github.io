@@ -407,6 +407,11 @@ ninja.data = [{
           description: "An 8-bit chemistry themed roguelite game I am working on coding in my free time.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-how-to-create-safe-chatbots",
+          title: 'How to Create Safe Chatbots',
+          description: "An article I am working on about how to ensure that chatbots are safe to interact with for people of all ages.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
