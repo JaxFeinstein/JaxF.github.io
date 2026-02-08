@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Software & Development Engineer
+subtitle: Software Development Engineer
 
 profile:
   align: right
